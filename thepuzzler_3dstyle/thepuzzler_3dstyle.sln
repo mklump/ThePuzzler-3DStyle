@@ -1,0 +1,88 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ManageStatsWebService", "ManageStatsWebService\", "{EBDCC0FE-CE57-4D61-A9F5-CF1BF668426D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/ManageStatsWebService"
+		Debug.AspNetCompiler.PhysicalPath = "ManageStatsWebService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ManageStatsWebService\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ManageStatsWebService"
+		Release.AspNetCompiler.PhysicalPath = "ManageStatsWebService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ManageStatsWebService\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "43238"
+		SlnRelativePath = "ManageStatsWebService\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryCreator", "DictionaryCreator\DictionaryCreator.csproj", "{8D99677F-1A3B-4AF6-BD07-E2CCB8ED27C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageDB", "ManageDB\ManageDB.csproj", "{9204E2B0-BDA3-4ABE-9969-9F079E69A333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageStats", "ManageStats\ManageStats.csproj", "{555CEF49-D596-4DAF-BC76-B92F0CD8341A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleConfig", "PuzzleConfig\PuzzleConfig.csproj", "{B824A111-C81F-4049-9828-B5E3F427BE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle_Creation", "PuzzleCreator\Puzzle_Creation.csproj", "{04E3BB09-4F78-4B74-87AA-9FDB5F5C8AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBlack", "RedBlack\RedBlack.csproj", "{D8D505E8-51C8-41E6-B5C4-E77640AF7196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle_Solution", "Solution\Puzzle_Solution.csproj", "{25DABFDE-FF9E-48B7-9869-642B2D0D3E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thepuzzler_3dstyle", "thepuzzler_3dstyle.csproj", "{5F64251C-2776-4D4B-B776-C22AB9B94744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDCC0FE-CE57-4D61-A9F5-CF1BF668426D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDCC0FE-CE57-4D61-A9F5-CF1BF668426D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDCC0FE-CE57-4D61-A9F5-CF1BF668426D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDCC0FE-CE57-4D61-A9F5-CF1BF668426D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8D99677F-1A3B-4AF6-BD07-E2CCB8ED27C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D99677F-1A3B-4AF6-BD07-E2CCB8ED27C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D99677F-1A3B-4AF6-BD07-E2CCB8ED27C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D99677F-1A3B-4AF6-BD07-E2CCB8ED27C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9204E2B0-BDA3-4ABE-9969-9F079E69A333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9204E2B0-BDA3-4ABE-9969-9F079E69A333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9204E2B0-BDA3-4ABE-9969-9F079E69A333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9204E2B0-BDA3-4ABE-9969-9F079E69A333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555CEF49-D596-4DAF-BC76-B92F0CD8341A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555CEF49-D596-4DAF-BC76-B92F0CD8341A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555CEF49-D596-4DAF-BC76-B92F0CD8341A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555CEF49-D596-4DAF-BC76-B92F0CD8341A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B824A111-C81F-4049-9828-B5E3F427BE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B824A111-C81F-4049-9828-B5E3F427BE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B824A111-C81F-4049-9828-B5E3F427BE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B824A111-C81F-4049-9828-B5E3F427BE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E3BB09-4F78-4B74-87AA-9FDB5F5C8AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E3BB09-4F78-4B74-87AA-9FDB5F5C8AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E3BB09-4F78-4B74-87AA-9FDB5F5C8AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E3BB09-4F78-4B74-87AA-9FDB5F5C8AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D505E8-51C8-41E6-B5C4-E77640AF7196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D505E8-51C8-41E6-B5C4-E77640AF7196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D505E8-51C8-41E6-B5C4-E77640AF7196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D505E8-51C8-41E6-B5C4-E77640AF7196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DABFDE-FF9E-48B7-9869-642B2D0D3E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DABFDE-FF9E-48B7-9869-642B2D0D3E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DABFDE-FF9E-48B7-9869-642B2D0D3E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DABFDE-FF9E-48B7-9869-642B2D0D3E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F64251C-2776-4D4B-B776-C22AB9B94744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F64251C-2776-4D4B-B776-C22AB9B94744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F64251C-2776-4D4B-B776-C22AB9B94744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F64251C-2776-4D4B-B776-C22AB9B94744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

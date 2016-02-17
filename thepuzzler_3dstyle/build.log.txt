@@ -1,0 +1,22 @@
+Buildfile: file:///C:/Users/Matthew James/Documents/Matts_Projects/thepuzzler_3dstyle_seniorproject/thepuzzler_3dstyle/thepuzzler_3dstyle.build
+Target framework: Microsoft .NET Framework 3.5
+Target(s) specified: clean build test_database document 
+
+
+clean:
+
+   [attrib] Setting file attributes for 1249 files to Normal.
+   [attrib] Setting attributes for 90 directories to Directory.
+   [delete] Deleting 117 files.
+   [delete] Deleted 7 directories.
+
+build:
+
+ [solution] Starting solution build.
+
+BUILD FAILED
+
+Solution format of file 'C:\Users\Matthew James\Documents\Matts_Projects\thepuzzler_3dstyle_seniorproject\thepuzzler_3dstyle\thepuzzler_3dstyle.sln' is not supported.
+
+Total time: 0.8 seconds.
+
