@@ -10,8 +10,6 @@ Help and Information for The Puzzler - 3D Style
  Jill Feyerherm for her exceptional moral support,
  the collective Feyerherm and Klump families for their support.
 
-Caution: This will reset the remote server. You must re-enter the project URL to reinvoke the web application.  
-Trouble? Use this!  
   Overview:
 The basic premise is very similar with respect to Seven Towns's Rubik's Cube.
  The rubik's.com web link will nagivate you away from this site, simply click your browser's
